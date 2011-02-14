@@ -1,6 +1,0 @@
-sub setXXXX {
-    my ( $self, $XXXX ) = @_;
-    $self->{XXXX} = $XXXX if defined($XXXX);
-    return $self->{XXXX};
-}
-
